@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+/resume_count_dataset.csv
+/package-lock.json
